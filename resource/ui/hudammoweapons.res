@@ -42,7 +42,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
 		"font"			"HudFontMediumSmall"
-		"fgcolor"		"200 200 200 60"
+		"fgcolor"		"75 75 175 150"
 		"xpos"			"c-25"
 		"xpos_minmode"	"-27"
 		"ypos"			"c18"
